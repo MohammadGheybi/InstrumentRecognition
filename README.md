@@ -8,10 +8,10 @@ Classifies 5 instruments(Guitar, Piano, Violin, Flute, Drums) from 3-second WAV 
 ## Data
 - It is trained by very small dataset
 - 20-30 WAVs per instrument (Guitar, Piano, Drums, Violin, Flute).
-├── data/
+```├── data/
 │   ├── Guitar/       
 │   ├── Piano/
 │   ├── Drums/
 │   ├── Violin/
 │   ├── Flute/
-│   └── tests/ # for adding more songs and test the model
+│   └── tests/ # for adding more songs and test the model```
